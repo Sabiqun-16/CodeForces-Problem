@@ -13,7 +13,7 @@ int main()
         int res=stoi(s);
 
         int x=sqrt(res);
-        if(x*x!=res) cout<<"-1"<<endl;
+        else if(x*x!=res) cout<<"-1"<<endl;
 
         cout<<0<<" "<<x<<endl;
 
