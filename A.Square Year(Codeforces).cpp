@@ -7,17 +7,16 @@ int main()
     int t;
     cin>>t;
     while(t--){
-        string s;
+        int s;
         cin>>s;
 
-        int res=stoi(s);
+        int x=sqrt(s);
+        if(x*x!=s) cout<<"-1"<<endl;
 
-        int x=sqrt(res);
-        else if(x*x!=res) cout<<"-1"<<endl;
-
-        cout<<0<<" "<<x<<endl;
+        else cout<<0<<" "<<x<<endl;
 
     }
     return 0;
 }
+
 
