@@ -7,7 +7,7 @@ int main()
     long d,p;
     cin>>d>>p;
 
-    cout<<pow(3,5)<<endl;
+    cout<<pow(d,p)<<endl;
 
     return 0;
 }
