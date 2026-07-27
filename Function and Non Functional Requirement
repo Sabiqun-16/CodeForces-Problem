@@ -1,0 +1,39 @@
+
+
+### **Functional Requirements**
+
+* **FR-1:** User Login
+* **FR-2:** Category Browsing
+* **FR-3:** Product Search
+* **FR-4:** Product Filtering
+* **FR-5:** Featured Products
+* **FR-6:** Best Sellers
+* **FR-7:** New Arrivals
+* **FR-8:** Shopping Cart
+* **FR-9:** Wishlist
+* **FR-10:** Flash Sale Timer
+* **FR-11:** Hero Image Slider
+* **FR-12:** Mobile Navigation
+* **FR-13:** Newsletter Subscription
+* **FR-14:** Customer Testimonials
+* **FR-15:** Scroll-to-Top
+
+### **Non-Functional Requirements**
+
+* **NFR-1:** Homepage loads within **3 seconds**
+* **NFR-2:** Product search within **2 seconds**
+* **NFR-3:** Product page loads within **2 seconds**
+* **NFR-4:** Support **500+ users**
+* **NFR-5:** Secure authentication
+* **NFR-6:** Secure HTTPS connection
+* **NFR-7:** High reliability
+* **NFR-8:** User-friendly interface
+* **NFR-9:** Responsive design
+* **NFR-10:** Cross-browser compatibility
+* **NFR-11:** Fast navigation
+* **NFR-12:** Data validation
+* **NFR-13:** Data security
+* **NFR-14:** Easy maintenance
+* **NFR-15:** High availability
+
+
